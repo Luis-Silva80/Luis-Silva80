@@ -1,6 +1,6 @@
 ### Olá sou Luis 👋
 
-- 🔭 Atualmente trabalho com JS, NODE e VUE
+- 🔭 Atualmente trabalho com JAVA, NODE PYTHON, MONGODB, RABBIT, AZURE DEVOPS
 - 🌱 Ja estudei Java e seus frameworks como Spring-Boot e no momento estudo Swift
 - 📫 Email de contato: luis.silva@bandtec.com.br
 - ⚡ Gosto de programar ouvindo minha playlist de musicas nacionais
